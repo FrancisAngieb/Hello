@@ -6,3 +6,5 @@ echo "We will see the end of this Training"
 
 echo "Help us oh Lord"
 
+echo "Continuous practizing makes perfect"
+
